@@ -1,4 +1,4 @@
-package com.learnjava.
+package com.learnjava.topic1.keywords;
 
 /*
  * Any Keyword in the any IDE (Integrated Development Environment) will have highlighted

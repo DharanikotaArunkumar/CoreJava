@@ -1,3 +1,4 @@
+package com.learnjava.demo1.Identifiers;
 	/*identifiers are case sensitive*/
 	/*An identifier cannot be the same as a query language keyword.(not recommended )( No Error if we use it ) */
 public class Demo_005_Identifiers_005 {

@@ -1,3 +1,4 @@
+package com.learnjava.topic3.datatypes;
 
 public class Demo_009_DataTypes_003 {
 
@@ -30,9 +31,9 @@ public class Demo_009_DataTypes_003 {
 		 * Range Check Maximum
 		 */
 
-		 short rangeMax = 32768;
+	/*	 short rangeMax = 32768;
 		 System.out.println(rangeMax);
-		  
+		*/  
 		
 		/*
 		 * Range Check Minimum

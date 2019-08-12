@@ -1,4 +1,4 @@
-package com.companyname.demo2.accessmodifiers.samepackage;
+package src.com.companyname.demo2.accessmodifiers.samepackage;
 
 
 //Access modifiers demo

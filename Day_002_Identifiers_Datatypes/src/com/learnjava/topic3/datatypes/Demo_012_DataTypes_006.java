@@ -1,3 +1,4 @@
+package com.learnjava.topic3.datatypes;
 
 public class Demo_012_DataTypes_006 {
 
