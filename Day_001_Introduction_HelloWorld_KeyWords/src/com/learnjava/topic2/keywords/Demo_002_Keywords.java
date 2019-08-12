@@ -1,10 +1,18 @@
-package com.learnjava.topic1.keywords;
+package com.learnjava.topic2.keywords;
 
 /*
  * Any Keyword in the any IDE (Integrated Development Environment) will have highlighted
  *  with the specific color .
+ *  
+ *  
+ Real Time Tip  :- we think the statement we wrote is correct most of the scenarios  w.r.t keywords if 
+		its showing error .Then check the below basics with keywords
+			1) Reserved word should be completely in lower case 
+			2) Reserved word should be completely in alphabetic  . 
+			3) NO NUMBERS and NO SPECIAL CHARECTERS
  */
-public class KeywordsDemo {
+
+public class Demo_002_Keywords {
 	
 	
 	
@@ -63,12 +71,6 @@ public class KeywordsDemo {
 		NULL
 		Null
 		*/
-		
-// 8) Resolve the following statement issues .		
-		/*if(true){
-			
-		}*/
-		
 		
 		
 		
