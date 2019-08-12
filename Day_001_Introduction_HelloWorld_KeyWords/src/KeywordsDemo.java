@@ -1,6 +1,8 @@
+package com.learnjava.
+
 /*
- * Any Keyword in the any IDE (Integrated Development Environment) will have highlighted with the 
- * specific color .
+ * Any Keyword in the any IDE (Integrated Development Environment) will have highlighted
+ *  with the specific color .
  */
 public class KeywordsDemo {
 	
