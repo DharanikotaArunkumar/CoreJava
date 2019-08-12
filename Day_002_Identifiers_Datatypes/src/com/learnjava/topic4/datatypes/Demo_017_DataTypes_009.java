@@ -1,6 +1,6 @@
-package com.learnjava.topic3.datatypes;
+package com.learnjava.topic4.datatypes;
 
-public class Demo_015_DataTypes_009 {
+public class Demo_017_DataTypes_009 {
 
 	public static void main(String[] args) {
 		boolean result = true;

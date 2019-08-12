@@ -1,7 +1,7 @@
-package com.learnjava.demo1.Identifiers;
+package com.learnjava.topic3.Identifiers;
 	/*identifiers are case sensitive*/
 	/*An identifier cannot be the same as a query language keyword.(not recommended )( No Error if we use it ) */
-public class Demo_005_Identifiers_005 {
+public class Demo_007_Identifiers_005 {
 
 	public static void main(String[] args) {
 	

@@ -1,6 +1,6 @@
-package com.learnjava.topic3.datatypes;
+package com.learnjava.topic4.datatypes;
 
-public class Demo_012_DataTypes_006 {
+public class Demo_014_DataTypes_006 {
 
 	public static void main(String[] args) {
 		/* float

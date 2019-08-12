@@ -1,4 +1,4 @@
-package com.learnjava.demo1.Identifiers;
+package com.learnjava.topic3.Identifiers;
 /*What are the Valid Identifiers and if not valid .Explain Why they are not valid  ?
 
 	 DollarDeams
@@ -21,7 +21,7 @@ package com.learnjava.demo1.Identifiers;
 	 ___
 
 */
-public class Demo_006_Identifiers_006 {
+public class Demo_008_Identifiers_006 {
 
 	public static void main(String[] args) {
 		

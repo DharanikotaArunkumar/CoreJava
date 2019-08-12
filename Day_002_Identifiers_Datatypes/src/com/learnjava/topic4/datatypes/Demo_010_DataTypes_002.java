@@ -1,6 +1,6 @@
-package com.learnjava.topic3.datatypes;
+package com.learnjava.topic4.datatypes;
 
-public class Demo_008_DataTypes_002 {
+public class Demo_010_DataTypes_002 {
 
 	public static void main(String[] args) {
 

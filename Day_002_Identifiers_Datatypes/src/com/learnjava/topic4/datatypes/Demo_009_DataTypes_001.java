@@ -1,8 +1,8 @@
-package com.learnjava.topic3.datatypes;
+package com.learnjava.topic4.datatypes;
 /*
 Variable Declaration Example  
 
-*/public class Demo_007_DataTypes_001 {
+*/public class Demo_009_DataTypes_001 {
 	
 	
 	
