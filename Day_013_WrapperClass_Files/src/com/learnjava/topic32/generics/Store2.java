@@ -1,4 +1,4 @@
-package com.companyname.java.generics;
+package com.learnjava.topic32.generics;
 
 public class Store2<T> { // T means Type .
 	

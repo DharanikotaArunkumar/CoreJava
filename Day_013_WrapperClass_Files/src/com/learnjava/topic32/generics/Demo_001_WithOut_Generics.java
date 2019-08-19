@@ -1,7 +1,7 @@
 /*
  * What is the problem in generic 
  */
-package com.companyname.java.generics;
+package com.learnjava.topic32.generics;
 
 public class Demo_001_WithOut_Generics {
 

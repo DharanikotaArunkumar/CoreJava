@@ -1,4 +1,4 @@
- 
+package com.learnjava.topic29.wrapperclass;
  // Wrapper class are the representation of the primitive data types in object form.
  // all wrapper class are sub class of the Number class . java.lang.Number
  // int-- java .lang.Interger
@@ -13,7 +13,7 @@
  // if some frameworks expects the objects all the time thenthese class are usfull,
  
 
-public class Demo_WrapperClass_1 {
+public class Demo_WrapperClass_001 {
 
 	public static void main(String[] args) {
 		

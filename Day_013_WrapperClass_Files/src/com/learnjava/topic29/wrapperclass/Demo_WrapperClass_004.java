@@ -1,4 +1,4 @@
-
+package com.learnjava.topic29.wrapperclass;
 class WrapperDemo {
 
 	/*public void display(int num) {
@@ -12,7 +12,7 @@ class WrapperDemo {
 
 }
 
-public class WrapperClass_4 {
+public class Demo_WrapperClass_004 {
 
 	public static void main(String[] args) {
 		new WrapperDemo().display(10);

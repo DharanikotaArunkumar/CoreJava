@@ -1,5 +1,5 @@
-
-public class Demo_WrapperClass_3 {
+package com.learnjava.topic29.wrapperclass;
+public class Demo_WrapperClass_003 {
 
 	public static void main(String[] args) {
 		int i =12;

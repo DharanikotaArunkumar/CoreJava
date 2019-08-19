@@ -1,8 +1,9 @@
+package com.learnjava.topic30.math;
 import java.math.BigDecimal;
 import java.math.BigInteger;
 import java.math.RoundingMode;
 
-public class Demo_BigInteger {
+public class Demo_Math_001_BigInteger {
 
 	public static void main(String[] args) {
 		BigInteger num = new BigInteger("1000");

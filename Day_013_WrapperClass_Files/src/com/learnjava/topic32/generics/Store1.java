@@ -1,4 +1,4 @@
-package com.companyname.java.generics;
+package com.learnjava.topic32.generics;
 
 public class Store1 {
 	private Object obj;     // General Solution  :-  As Object is the super class for all .It can hold any objects .

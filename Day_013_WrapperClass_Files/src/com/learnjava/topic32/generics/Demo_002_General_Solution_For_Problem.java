@@ -1,4 +1,4 @@
-package com.companyname.java.generics;
+package com.learnjava.topic32.generics;
 
 public class Demo_002_General_Solution_For_Problem {
 
