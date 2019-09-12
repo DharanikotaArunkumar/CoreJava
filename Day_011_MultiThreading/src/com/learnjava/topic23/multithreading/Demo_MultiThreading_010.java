@@ -1,4 +1,4 @@
-package companyname.demomultithreading;
+package com.learnjava.topic23.multithreading;
 
 // Thread Priority :- priority says the importance of the thread or particular task .
 
@@ -7,7 +7,7 @@ package companyname.demomultithreading;
 // 5 means Normal Priority 
 //10 means Max Priority
 
-public class Demo_MultiThreading_10 {
+public class Demo_MultiThreading_010 {
 
 	public static void main(String[] args) {
 		System.out.println(Thread.currentThread().getPriority());// Default

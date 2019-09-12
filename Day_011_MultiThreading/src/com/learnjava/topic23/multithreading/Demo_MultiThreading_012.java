@@ -1,8 +1,8 @@
-package companyname.demomultithreading;
+package com.learnjava.topic23.multithreading;
 
 // Thread Priority Example while running the program. high prority will be completed sooner .
 
-public class Demo_MultiThreading_12 {
+public class Demo_MultiThreading_012 {
 
 	public static void main(String[] args) {
 				Thread.currentThread().setName("Main-Thread");		

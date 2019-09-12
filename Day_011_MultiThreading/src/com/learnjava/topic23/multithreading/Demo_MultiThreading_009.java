@@ -1,8 +1,8 @@
-package companyname.demomultithreading;
+package com.learnjava.topic23.multithreading;
 
 // I can create the multiple threads . How many threads been presently now .
 
-public class Demo_MultiThreading_9 {
+public class Demo_MultiThreading_009 {
 
 	public static void main(String[] args) {
 		Thread t1 = new MyProjectThread6(); 

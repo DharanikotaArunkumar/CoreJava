@@ -1,7 +1,7 @@
-package companyname.demomultithreading;
+package com.learnjava.topic23.multithreading;
 
 // Join() method gives an advantage of ordring the threads 
-public class Demo_MultiThreading_13 {
+public class Demo_MultiThreading_013 {
 
 	public static void main(String[] args) throws InterruptedException {
 		Thread.currentThread().setName("Main-Thread");		

@@ -1,8 +1,8 @@
-package companyname.demomultithreading;
+package com.learnjava.topic23.multithreading;
 
 // Each and every thread will get many properties once they are created .
 
-public class Demo_MultiThreading_4 {
+public class Demo_MultiThreading_004 {
 
 	public static void main(String[] args) throws ClassNotFoundException {
 		System.out.println("Thread Name "+Thread.currentThread().getName());

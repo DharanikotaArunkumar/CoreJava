@@ -1,4 +1,4 @@
-package companyname.demomultithreading;
+package com.learnjava.topic23.multithreading;
 
 //Daemon  thread :- when the main thread is ended child threads will get end those type of 
 // threads are called Daemon Threads .
@@ -6,7 +6,7 @@ package companyname.demomultithreading;
 // In Eclipse spell checker ,is like daemon Thread when i will be supporting eclipse and ended when 
 // eclipse is closed .
 
-public class Demo_MultiThreading_20 {
+public class Demo_MultiThreading_020 {
 
 	public static void main(String[] args) {
 		

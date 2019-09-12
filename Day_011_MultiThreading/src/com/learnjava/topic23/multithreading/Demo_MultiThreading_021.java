@@ -1,8 +1,8 @@
-package companyname.demomultithreading;
+package com.learnjava.topic23.multithreading;
 
 // Creating the Thread by using Runnable interface
 
-public class Demo_MultiThreading_21 {
+public class Demo_MultiThreading_021 {
 
 	public static void main(String[] args) {
 		
@@ -10,7 +10,7 @@ public class Demo_MultiThreading_21 {
 		obj.run();
 		
 		Thread t1 =new Thread(obj);
-		//t1.start();
+		t1.start();
 
 	}
 

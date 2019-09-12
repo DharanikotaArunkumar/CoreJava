@@ -1,8 +1,8 @@
-package companyname.demomultithreading;
+package com.learnjava.topic23.multithreading;
 // Every thing runs on the thread .How these java statement been executed .with out creating the Thread .
 //main is the thread created by the JVM
 
-public class Demo_MultiThreading_1 {
+public class Demo_MultiThreading_001 {
 
 	public static void main(String[] args) {
 		

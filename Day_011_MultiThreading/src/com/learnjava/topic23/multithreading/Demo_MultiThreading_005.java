@@ -1,4 +1,4 @@
-package companyname.demomultithreading;
+package com.learnjava.topic23.multithreading;
 
 // JVM Creates the Default thread names for the user defined threads as Thread-0,Thread-1,Thread-2
 // We can change the Thread name based on our convince 
@@ -6,7 +6,7 @@ package companyname.demomultithreading;
 // A Thread Can invoke another thread , here MyProjectThread3(Child Thread) thread is invoked by the main(parent Thread)
 
 
-public class Demo_MultiThreading_5 {
+public class Demo_MultiThreading_005 {
 
 	public static void main(String[] args) {
 		

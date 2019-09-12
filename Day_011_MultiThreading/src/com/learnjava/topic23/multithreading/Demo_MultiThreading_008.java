@@ -1,9 +1,9 @@
-package companyname.demomultithreading;
+package com.learnjava.topic23.multithreading;
 
 // I can run the run() method no of times
 
 
-public class Demo_MultiThreading_8 {
+public class Demo_MultiThreading_008 {
 
 	public static void main(String[] args) {
 		Thread t1 = new MyProjectThread6(); 

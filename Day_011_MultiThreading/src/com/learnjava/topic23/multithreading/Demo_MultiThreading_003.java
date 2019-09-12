@@ -1,4 +1,4 @@
-package companyname.demomultithreading;
+package com.learnjava.topic23.multithreading;
 
 /* when ever we call the start method on the Thread run method will be called automatically .
  * 
@@ -10,7 +10,7 @@ package companyname.demomultithreading;
 	somthing;
 	}
 */
-public class Demo_MultiThreading_3 {
+public class Demo_MultiThreading_003 {
 
 	public static void main(String[] args) {
 		Thread t1 = new MyProjectThread1(); //Just created a thread object . Thread is not activated yet

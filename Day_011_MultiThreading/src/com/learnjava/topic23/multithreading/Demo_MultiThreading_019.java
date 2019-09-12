@@ -1,9 +1,9 @@
-package companyname.demomultithreading;
+package com.learnjava.topic23.multithreading;
 
 //User defined thread :- Even the main thread is ended child threads are still running those type of 
 // threads are called User defined Threads .
 
-public class Demo_MultiThreading_19 {
+public class Demo_MultiThreading_019 {
 
 	public static void main(String[] args) {
 				Thread.currentThread().setName("Main-Thread");		
