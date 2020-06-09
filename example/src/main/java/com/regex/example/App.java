@@ -19,7 +19,7 @@ public class App
     	String string = IOUtils.toString(resourceAsStream );
     	
     	System.out.println("Before :");
-    	System.out.println("-----------------------");
+    	System.out.println("------------------------");
     	System.out.println(string );
     	
     	Pattern pattern = Pattern.compile("#.*");
