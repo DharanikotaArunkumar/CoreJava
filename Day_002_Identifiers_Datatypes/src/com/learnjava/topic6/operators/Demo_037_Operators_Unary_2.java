@@ -1,25 +1,13 @@
+/*
+ * pre increment and post increment operator
+ */
+
 package com.learnjava.topic6.operators;
 
-public class Demo_Unary_2 {
+public class Demo_037_Operators_Unary_2 {
 
 	public static void main(String[] args) {
-		
-		int x= 0;
-		x= x+1;
-		System.out.println(" value of x is :"+x);		
-		
-		++x; //x =x+1
-		
-		int y =0;
-		++y;
-		System.out.println(" Value of y is :"+y);
-		
-		int z=0;
-		z++;
-		System.out.println("value of z is :"+z);
-		
-		System.out.println("----------------------------");
-		
+
 		int number =0;
 		int number1 =++number;
 		System.out.println("pre increament value "+number1);

@@ -1,6 +1,6 @@
 package com.learnjava.topic6.operators;
 
-public class Demo_024_Operators_Arithmetic{
+public class Demo_034_Operators_Arithmetic{
 
 	public static void main(String[] args) {
 

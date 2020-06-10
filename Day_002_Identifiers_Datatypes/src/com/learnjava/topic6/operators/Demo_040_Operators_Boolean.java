@@ -1,6 +1,6 @@
-package com.companyname.demo8.booleanoperator;
+package com.learnjava.topic6.operators;
 
-public class Demo_Boolean_1 {
+public class Demo_040_Operators_Boolean {
 
 	public static void main(String[] args) {
 		boolean a=true;

@@ -3,7 +3,7 @@
  */
 package com.learnjava.topic6.operators.selfstudy;
 
-public class Demo_040_Operators_Assignment {
+public class Demo_045_Operators_Assignment {
 
 	public static void main(String[] args) {
 		int x, y;

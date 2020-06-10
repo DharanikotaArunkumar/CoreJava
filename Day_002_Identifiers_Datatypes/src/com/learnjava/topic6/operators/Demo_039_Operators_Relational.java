@@ -1,6 +1,9 @@
+/*
+ * Relational Operator
+ */
 package com.learnjava.topic6.operators;
 
-public class Demo_Relational_1 {
+public class Demo_039_Operators_Relational {
 
 	public static void main(String[] args) {
 		// The Name itself says the relational ,which one is big ,small ,equal

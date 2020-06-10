@@ -1,6 +1,6 @@
 package com.learnjava.topic6.operators;
 
-public class Demo_025_Operators_Logical {
+public class Demo_035_Operators_Logical {
 
 	public static void main(String[] args) {
 		// logical operators constructs the compound expressions or statements .

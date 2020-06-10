@@ -1,6 +1,6 @@
 package com.learnjava.topic6.operators;
 
-public class Demo_Bitwise_1 {
+public class Demo_042_Operators_Bitwise {
 
 	public static void main(String[] args) {
 		int x=10,y=11;

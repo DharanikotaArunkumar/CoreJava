@@ -1,22 +1,11 @@
+/*
+ *  pre decrement / post decrement operator
+ */
 package com.learnjava.topic6.operators;
 
-public class Demo_Unary_3 {
+public class Demo_038_Operators_Unary_3 {
 
 	public static void main(String[] args) {
-		int x= 1;
-		x= x-1;
-		System.out.println(" value of x is :"+x);		
-		
-		int y =1;
-		--y;
-		System.out.println(" Value of y is :"+y);
-		
-		int z=1;
-		z--;
-		System.out.println("value of z is :"+z);
-		
-		System.out.println("----------------------------");
-		
 		int number =1;
 		int number1 =--number;
 		System.out.println("pre decreament value "+number1);

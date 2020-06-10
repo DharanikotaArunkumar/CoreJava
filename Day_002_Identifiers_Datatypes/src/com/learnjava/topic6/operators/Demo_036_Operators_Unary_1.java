@@ -1,6 +1,9 @@
+/*
+ * unary minus (-), unary plus (+) operator
+ */
 package com.learnjava.topic6.operators;
 
-public class Demo_Unary_1 {
+public class Demo_036_Operators_Unary_1 {
 
 	public static void main(String[] args) {
 		

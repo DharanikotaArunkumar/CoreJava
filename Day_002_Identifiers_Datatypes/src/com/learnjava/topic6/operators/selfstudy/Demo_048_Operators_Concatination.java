@@ -1,6 +1,10 @@
-package com.companyname.demo12.homework;
+/*
+ * Concatenation example
+ */
 
-public class Homework03 {
+package com.learnjava.topic6.operators.selfstudy;
+
+public class Demo_048_Operators_Concatination {
 
 	public static void main(String[] args) {
 		 
