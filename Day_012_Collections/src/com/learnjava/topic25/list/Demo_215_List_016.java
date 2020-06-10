@@ -1,9 +1,9 @@
-package com.companyname.demo2.List;
+package com.learnjava.topic25.list;
 
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class Demo_list_16 {
+public class Demo_215_List_016 {
 
 	public static void main(String[] args) {
 		ArrayList list1 = new ArrayList();

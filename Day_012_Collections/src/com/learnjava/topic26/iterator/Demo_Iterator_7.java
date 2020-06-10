@@ -1,4 +1,4 @@
-package com.companyname.democollections;
+package com.learnjava.topic26.iterator;
 // List iterator has the add method , we can add the elements to the  list
 
 import java.util.ArrayList;

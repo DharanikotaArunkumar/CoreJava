@@ -1,4 +1,4 @@
-package com.companyname.demo2.List;
+package com.learnjava.topic25.list;
 /*
 // How list is grow able
 initalcapacity =10, load factor is =1 
@@ -6,7 +6,7 @@ capacity =(capacity+(capacity*loadfactor));
 */
 import java.util.ArrayList;
 
-public class Demo_List_13 {
+public class Demo_212_List_013 {
 
 	public static void main(String[] args) {
 		ArrayList list = new ArrayList();
@@ -23,7 +23,7 @@ public class Demo_List_13 {
 		System.out.println("List Size is :- "+list.size());
 		
 		System.out.println(list);
-		list.ensureCapacity(100);// i can set the inital capacity 
+		list.ensureCapacity(100);// i can set the initial capacity 
 		System.out.println(list);
 		System.out.println("List Size is :- "+list.size());
 		

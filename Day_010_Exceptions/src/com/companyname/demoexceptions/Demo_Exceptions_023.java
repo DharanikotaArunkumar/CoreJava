@@ -24,7 +24,7 @@ class CreditCard2 {
 	
 	public void commitTranscation() {
 		String st = null;
-		st.toLowerCase();
+		st.toLowerCase(); 
 	}
 }
 

@@ -7,7 +7,7 @@ public class Demo_String_013 {
 	 */
 	public static void main(String[] args) {
 		String str ="Hello";
-		/*
+		
 		//  equals()
 		// Returns True when equal , false when they are not equal , case sensitive
 		System.out.println(str.equals("Hello"));
@@ -37,14 +37,14 @@ public class Demo_String_013 {
 		String ex2 ="Hello";
 		
 		if(ex1.equals(ex2)){
-			System.err.println("login suces --------");
+			System.out.println("login suces --------");
 		}
 				
 		if(ex1!= null&&ex2.equals(ex1.trim())){
-			System.err.println("login suces");
+			System.out.println("login suces");
 		}
 				
-		*/		
+		
 		
 		
 		

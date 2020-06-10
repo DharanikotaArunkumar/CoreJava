@@ -19,21 +19,21 @@ public class Demo_Exceptions_012 {
 		/*catch (ArrayIndexOutOfBoundsException exp) { 
 			System.out.println("ArrayIndexOutOfBoundsException been raised :");
 			
-			}
-		*//*catch (IndexOutOfBoundsException exp) { 
+			}*/
+		/*catch (IndexOutOfBoundsException exp) { 
 			System.out.println("IndexOutOfBoundsException been raised :");
 			
 			}*/
 		
-	/*	catch (RuntimeException exp) { 
+		/*catch (RuntimeException exp) { 
 			System.out.println("RuntimeException been raised :");
 		
-			}
-	*/	/*catch (Exception exp) { 
+			}*/
+		/*catch (Exception exp) { 
 			System.out.println("Exception been raised :");
 			
-			}
-		*/
+			}*/
+		
 		catch (Throwable exp) { 
 			System.out.println("Throwable been raised :");
 			

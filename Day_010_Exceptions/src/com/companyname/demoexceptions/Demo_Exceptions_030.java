@@ -35,6 +35,9 @@ class CreditCard10 {
 
 class RewardsCreditCard10 extends CreditCard10{	
 	public void saveTranscation() {
+		
+		String str = null;
+		str.toLowerCase();
 		System.out.println("Inside RewardsCreditCard");
 	}
 }

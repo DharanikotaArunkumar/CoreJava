@@ -1,11 +1,11 @@
-package com.companyname.democollections;
+package com.learnjava.topic28.map;
 
 // Is nulls are not allowed in the Hashtable as key and value 
 
 import java.util.Hashtable;
 import java.util.Map;
 
-public class Demo_Map_14 {
+public class Demo_Map_014 {
 
 	public static void main(String[] args) {
 		Map map =new Hashtable();

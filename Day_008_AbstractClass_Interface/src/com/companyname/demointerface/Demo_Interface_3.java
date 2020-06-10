@@ -5,8 +5,8 @@ package com.companyname.demointerface;
 interface Shape{
 	
 	/*protected void displyShapeName(); 
-	private void displyShapeType();
-	*/
+	private void displyShapeType();*/
+	
 	
 	void displayShape(); // what is the modifier
 	public void diaplyMotor();

@@ -23,7 +23,7 @@ public class Demo_Exceptions_013 {
 				System.out.println("RuntimeException been raised :");
 			
 				}
-			/*catch (RuntimeException exp) { 
+		/*	catch (RuntimeException exp) { 
 				System.out.println("RuntimeException been raised :");
 			
 				}
@@ -33,12 +33,12 @@ public class Demo_Exceptions_013 {
 				}
 			catch (IndexOutOfBoundsException exp) { 
 				System.out.println("IndexOutOfBoundsException been raised :");
-				
+				*/
 				}
-			*/
+			
 			
 			
 			
 	}
 
-}
+

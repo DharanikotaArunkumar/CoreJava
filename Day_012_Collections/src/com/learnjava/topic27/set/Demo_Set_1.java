@@ -1,4 +1,4 @@
-package com.companyname.democollections;
+package com.learnjava.topic27.set;
 //Set example :- Duplicates are not allowed .
 
 import java.util.HashSet;

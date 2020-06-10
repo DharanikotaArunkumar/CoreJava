@@ -1,4 +1,4 @@
-package com.companyname.demo2.List;
+package com.learnjava.topic25.list;
 /*
  * Linked List Example 
  * 

@@ -1,4 +1,4 @@
-package com.companyname.democollections;
+package com.learnjava.topic28.map;
 
 // how to print all keys 
 
@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
-public class Demo_Map_10 {
+public class Demo_Map_010 {
 
 	public static void main(String[] args) {
 Map map =new HashMap();

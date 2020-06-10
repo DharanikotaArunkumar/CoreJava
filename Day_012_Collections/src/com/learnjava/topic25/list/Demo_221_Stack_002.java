@@ -1,9 +1,9 @@
-package com.companyname.democollections;
+package com.learnjava.topic25.list;
 // pop operation is removing the element from the stack.
 
 import java.util.Stack;
 
-public class Demo_Stack_2 {
+public class Demo_221_Stack_002 {
 
 	public static void main(String[] args) {
 		Stack<Object> st = new Stack<Object>();

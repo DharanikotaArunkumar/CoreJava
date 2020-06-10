@@ -2,7 +2,7 @@
  * ConcurrentModificationException Example 
  */
 
-package com.companyname.demo2.list;
+package com.learnjava.topic25.list;
 
 import java.util.Iterator;
 import java.util.List;
@@ -35,6 +35,9 @@ public class Demo_219_List_CopyOnWriteArrayList_002 {
 			 }
 			
 		}
+		
+		
+	
 		
 		
 		

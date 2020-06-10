@@ -1,9 +1,9 @@
-package com.companyname.demo2.List;
+package com.learnjava.topic25.list;
 // array list accept the null values 
 
 import java.util.ArrayList;
 
-public class Demo_List_5 {
+public class Demo_204_List_005 {
 
 	public static void main(String[] args) {
 		ArrayList list = new ArrayList();

@@ -13,6 +13,9 @@ class Dog {
 	float length;
 	
 	
+	public Dog(){
+		
+	}
 	
 	
 	void sit(){

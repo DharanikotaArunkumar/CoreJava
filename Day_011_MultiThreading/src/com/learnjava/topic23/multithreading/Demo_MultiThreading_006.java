@@ -1,7 +1,7 @@
-package companyname.demomultithreading;
+package com.learnjava.topic23.multithreading;
 
 // We can give special features by making the thread to active by starting .
-public class Demo_MultiThreading_6 {
+public class Demo_MultiThreading_006 {
 
 	public static void main(String[] args) {
 		Thread t1 = new MyProjectThread4();

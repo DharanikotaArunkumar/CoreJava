@@ -1,4 +1,4 @@
-package com.companyname.demo1.arrays;
+package com.learnjava.topic24.arrays;
 
 /*
  * Till now we have seen problems with arrays . Now lets see the advantage 

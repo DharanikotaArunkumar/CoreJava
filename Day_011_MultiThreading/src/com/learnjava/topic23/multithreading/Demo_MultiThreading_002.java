@@ -1,4 +1,4 @@
-package companyname.demomultithreading;
+package com.learnjava.topic23.multithreading;
 
 /* 1)Runnable is the super most interface for the threads . it contains only method which is run();
 package java.lang;
@@ -14,7 +14,7 @@ public interface Runnable {
  * run method run() in the thread class does not have any business logic to execute
 */
 
-public class Demo_MultiThreading_2 {
+public class Demo_MultiThreading_002 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

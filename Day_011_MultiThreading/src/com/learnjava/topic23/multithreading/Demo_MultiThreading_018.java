@@ -1,6 +1,6 @@
-package companyname.demomultithreading;
+package com.learnjava.topic23.multithreading;
 
-public class Demo_MultiThreading_18 {
+public class Demo_MultiThreading_018 {
 
 	public static void main(String[] args) {
 		Object venue = new Object();

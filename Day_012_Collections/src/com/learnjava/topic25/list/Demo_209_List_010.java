@@ -1,9 +1,9 @@
-package com.companyname.demo2.List;
+package com.learnjava.topic25.list;
 // Diff between and add and set
 
 import java.util.ArrayList;
 
-public class Demo_List_10 {
+public class Demo_209_List_010 {
 
 	public static void main(String[] args) {
 		ArrayList list = new ArrayList();

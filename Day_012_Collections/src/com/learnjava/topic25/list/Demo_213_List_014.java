@@ -1,10 +1,10 @@
-package com.companyname.demo2.List;
+package com.learnjava.topic25.list;
 
 //trimToSize example
 
 import java.util.ArrayList;
 
-public class Demo_List_14 {
+public class Demo_213_List_014 {
 
 	public static void main(String[] args) {
 		ArrayList list = new ArrayList();

@@ -1,4 +1,4 @@
-package com.companyname.democollections;
+package com.learnjava.topic25.list;
 
 import java.util.Vector;
 
@@ -6,7 +6,7 @@ import java.util.Vector;
 //size () method returns the int value .
 //isEmpty and clear
 
-public class Demo_Vector_3 {
+public class Demo_225_Vector_003 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

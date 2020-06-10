@@ -1,10 +1,10 @@
-package com.companyname.demo2.List;
+package com.learnjava.topic25.list;
 
 // isEmpty and clear 
 
 import java.util.ArrayList;
 
-public class Demo_List_7 {
+public class Demo_206_List_007 {
 
 	public static void main(String[] args) {
 		ArrayList list = new ArrayList();

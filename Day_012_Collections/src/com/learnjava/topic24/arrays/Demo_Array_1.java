@@ -1,4 +1,4 @@
-package com.companyname.demo1.arrays;
+package com.learnjava.topic24.arrays;
 
 /*
  * We are not to new to collections topic , We already discussed about it during arrays .

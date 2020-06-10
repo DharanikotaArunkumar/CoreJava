@@ -17,8 +17,7 @@ String parameter ="Demo_Exceptions_55";
 					} catch (IllegalAccessException e) {
 						// TODO Auto-generated catch block
 						e.printStackTrace();
-					}
-				} catch (ClassNotFoundException e) {
+					} 				} catch (ClassNotFoundException e) {
 					// TODO Auto-generated catch block
 					e.printStackTrace();
 				}

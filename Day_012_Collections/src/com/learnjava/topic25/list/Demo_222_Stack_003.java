@@ -1,8 +1,8 @@
-package com.companyname.democollections;
+package com.learnjava.topic25.list;
 
 import java.util.Stack;
 
-public class Demo_Stack_3 {
+public class Demo_222_Stack_003 {
 
 	public static void main(String[] args) {
 		Stack<Object> st = new Stack<Object>();

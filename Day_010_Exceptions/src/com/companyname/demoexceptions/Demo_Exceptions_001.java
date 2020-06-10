@@ -10,6 +10,8 @@ public class Demo_Exceptions_001 {
 		for (int i=0 ;i<6;i++){ // i am trying loop from 0 to 5
 			System.out.println(array[i]);
 		}
+		
+		System.out.println("Please Print me ");
 	}
 
 }

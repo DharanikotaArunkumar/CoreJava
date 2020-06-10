@@ -1,8 +1,8 @@
-package companyname.demomultithreading;
+package com.learnjava.topic23.multithreading;
 // By default every thread has priority as 5 ,if parent Thread is having any priority then that will 
 // be inherited Child . 
 
-public class Demo_MultiThreading_11 {
+public class Demo_MultiThreading_011 {
 
 	public static void main(String[] args) {
 		Thread.currentThread().setPriority(Thread.MAX_PRIORITY);

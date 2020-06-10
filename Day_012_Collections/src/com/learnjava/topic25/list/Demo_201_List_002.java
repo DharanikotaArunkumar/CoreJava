@@ -1,12 +1,14 @@
-package com.companyname.demo2.List;
+package com.learnjava.topic25.list;
 // Collections accepts only objects ,
 
 import java.util.ArrayList;
 
-public class Demo_List_2 {
+public class Demo_201_List_002 {
 
 	public static void main(String[] args) {
-		ArrayList list = new ArrayList();
+		ArrayList list = new ArrayList<>();
+		
+		
 		list.add("hello");
 		list.add(10);
 		list.add(12.23f);

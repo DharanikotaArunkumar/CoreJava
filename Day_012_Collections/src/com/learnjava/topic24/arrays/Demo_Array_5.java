@@ -1,4 +1,4 @@
-package com.companyname.demo1.arrays;
+package com.learnjava.topic24.arrays;
 
 /*
  * Lets see the problems with arrays 

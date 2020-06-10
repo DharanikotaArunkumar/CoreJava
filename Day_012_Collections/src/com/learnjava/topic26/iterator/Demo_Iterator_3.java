@@ -1,4 +1,4 @@
-package com.companyname.democollections;
+package com.learnjava.topic26.iterator;
 // remove() :- it removes the elements from the collections
 
 import java.util.ArrayList;

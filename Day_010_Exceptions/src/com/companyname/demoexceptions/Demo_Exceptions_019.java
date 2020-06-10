@@ -9,18 +9,20 @@ class Demo {
 		int temp = 0;
 		try {
 			temp = 10;
-			return temp;
+			
+			//return temp;
 		} catch (NullPointerException exp) {
+			System.out.println("null pointer");
 			temp = 20;
 			return temp;
 		} catch (Exception exp) {
 			temp = 30;
 			return temp;
 		} finally {
-			temp = 40;
-			return temp;
+			/*temp = 40;
+			return temp;*/
 		}
-//System.out.println("hello");
+return 10;
 	}
 
 }

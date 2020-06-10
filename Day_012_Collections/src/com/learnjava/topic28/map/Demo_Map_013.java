@@ -1,4 +1,4 @@
-package com.companyname.democollections;
+package com.learnjava.topic28.map;
 
 
 // LinkedHashMap follows the inertion order .
@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
-public class Demo_Map_13 {
+public class Demo_Map_013 {
 
 	public static void main(String[] args) {
 		Map map =new HashMap();

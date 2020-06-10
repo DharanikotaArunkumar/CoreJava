@@ -1,8 +1,8 @@
-package companyname.demomultithreading;
+package com.learnjava.topic23.multithreading;
 
 // Can i do activation of thread again ?
 
-public class Demo_MultiThreading_7 {
+public class Demo_MultiThreading_007 {
 
 	public static void main(String[] args) {
 		Thread t1 = new MyProjectThread5(); 

@@ -1,8 +1,16 @@
-package com.companyname.demo2.List;
+/*
+ * remove method is overloaded with index , as well as value .
+ * 
+ * if you int => its takes inthe index location to be removed 
+ * 
+ * other then in value it removes value in that array list 
+ */
+
+package com.learnjava.topic25.list;
 
 import java.util.ArrayList;
 
-public class Demo_List_11 {
+public class Demo_210_List_011 {
 
 	public static void main(String[] args) {
 		ArrayList list = new ArrayList();

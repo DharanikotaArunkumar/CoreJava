@@ -1,4 +1,4 @@
-package com.companyname.democollections;
+package com.learnjava.topic28.map;
 
 // map should have unique key ,if we give another key , latest value will be updated .
 // values can be duplicated 
@@ -6,7 +6,7 @@ package com.companyname.democollections;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Demo_Map_4 {
+public class Demo_Map_004 {
 
 	public static void main(String[] args) {
 Map map =new HashMap();

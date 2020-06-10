@@ -1,11 +1,11 @@
-package com.companyname.democollections;
+package com.learnjava.topic28.map;
 
 // Map is the key -value pair .
 
 import java.util.HashMap;
 import java.util.Map;
 
-public class Demo_Map_1 {
+public class Demo_Map_001 {
 
 	public static void main(String[] args) {
 	Map map =new HashMap();

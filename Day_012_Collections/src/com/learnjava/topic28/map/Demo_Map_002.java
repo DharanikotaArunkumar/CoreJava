@@ -1,10 +1,10 @@
-package com.companyname.democollections;
+package com.learnjava.topic28.map;
 
 // Map accepts any object as key value pair .
 import java.util.HashMap;
 import java.util.Map;
 
-public class Demo_Map_2 {
+public class Demo_Map_002 {
 
 	public static void main(String[] args) {
 		Map map =new HashMap();

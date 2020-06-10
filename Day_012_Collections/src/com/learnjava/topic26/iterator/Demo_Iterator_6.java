@@ -1,4 +1,4 @@
-package com.companyname.democollections;
+package com.learnjava.topic26.iterator;
 
 /*it been defined in the only list 
 ==> it has 3 methods 
@@ -37,6 +37,9 @@ public class Demo_Iterator_6 {
 			
 		}
 		System.out.println("Ended Iterator ");
+		
+		
+		System.out.println(" -------------------------");
 		
 		
 		System.out.println(" List Iterator started ");

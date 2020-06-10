@@ -1,10 +1,10 @@
-package com.companyname.democollections;
+package com.learnjava.topic25.list;
 
 //Duplicates are allowed here ,
 
 import java.util.Vector;
 
-public class Demo_Vector_2 {
+public class Demo_224_Vector_002 {
 
 	public static void main(String[] args) {
 		Vector<Object> list = new Vector<Object>();

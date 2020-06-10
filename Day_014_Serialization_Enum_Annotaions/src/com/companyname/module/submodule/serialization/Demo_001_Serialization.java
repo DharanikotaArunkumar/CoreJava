@@ -4,11 +4,8 @@
 
 package com.companyname.module.submodule.serialization;
 
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
-import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.io.Serializable;
 import java.time.LocalDateTime;
@@ -55,6 +52,14 @@ class Student implements Serializable {
 	public void setStName(String stName) {
 		this.stName = stName;
 	}
+	public String getStGrade() {
+		return stGrade;
+	}
+
+	public void setStGrade(String stGrade) {
+		this.stGrade = stGrade;
+	}
+
 	public String getStRollNumber() {
 		return stRollNumber;
 	}

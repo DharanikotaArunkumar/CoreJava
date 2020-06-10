@@ -1,4 +1,4 @@
-package com.companyname.democollections;
+package com.learnjava.topic28.map;
 
 // all the keys should be in comparing form
 import java.util.Map;

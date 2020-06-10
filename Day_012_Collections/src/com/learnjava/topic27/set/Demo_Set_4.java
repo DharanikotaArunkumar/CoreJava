@@ -1,4 +1,4 @@
-package com.companyname.democollections;
+package com.learnjava.topic27.set;
 // we can not add any element in middle of a set or any location specific insertion and deletion will not
 //be possible Ex add(index,Object) ,remove (index) 
 

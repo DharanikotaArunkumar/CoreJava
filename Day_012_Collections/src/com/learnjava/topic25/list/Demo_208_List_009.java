@@ -1,9 +1,9 @@
-package com.companyname.demo2.List;
+package com.learnjava.topic25.list;
 // IndexOutOfBoundsException :-  we will not get ArrayOutOfBoundException
 
 import java.util.ArrayList;
 
-public class Demo_List_9 {
+public class Demo_208_List_009 {
 
 	public static void main(String[] args) {
 		ArrayList list = new ArrayList();
@@ -16,6 +16,8 @@ public class Demo_List_9 {
 		list.add(12.23f);
 		list.add(null);
 		System.out.println(list.get(15));// what happens now ?
+		
+		
 		
 	}
 

@@ -1,11 +1,11 @@
-package com.companyname.democollections;
+package com.learnjava.topic28.map;
 
 import java.util.HashMap;
 import java.util.Map;
 
 // Remove method is based on the key .
 
-public class Demo_Map_7 {
+public class Demo_Map_007 {
 
 	public static void main(String[] args) {
 		Map map =new HashMap();

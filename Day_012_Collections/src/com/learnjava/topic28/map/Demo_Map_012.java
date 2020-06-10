@@ -1,11 +1,11 @@
-package com.companyname.democollections;
+package com.learnjava.topic28.map;
 
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
 // Replace method 
-public class Demo_Map_12 {
+public class Demo_Map_012 {
 
 	public static void main(String[] args) {
 		Map map =new HashMap();

@@ -14,7 +14,10 @@ public class Demo_Annotations_3_Suppress_Warnings_Example1 {
 		
 		cricketTeamNames.add("India");
 		cricketTeamNames.add("srikanka");
+		//cricketTeamNames.add(1);
 		
+		
+		System.out.println(cricketTeamNames);
 		
 
 	}

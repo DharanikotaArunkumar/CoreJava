@@ -9,11 +9,11 @@ class Customer{
 	}
 	
 	
-/*public String  toString(){
+public String  toString(){
 		
-		temp=" Name :- "+name+"    "+"Pno"+phonenumber;
-		 * 
-		 * StringBuffer temp =new StringBuffer("");
+		//String temp=" Name :- "+name+"    "+"Pno"+phonenumber;
+		 
+		StringBuffer temp =new StringBuffer("");
 		temp.append(" Name :- ").append(name);
 		temp.append(" Pno :- ").append(phonenumber);
 		
@@ -30,7 +30,7 @@ class Customer{
 		//convert to string
 	
 	
-	}*/
+	}
 	
 	
 }

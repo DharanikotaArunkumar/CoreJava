@@ -1,10 +1,10 @@
-package com.companyname.demo2.List;
+package com.learnjava.topic25.list;
 
 // toString() method been overridden 
 
 import java.util.ArrayList;
 
-public class Demo_List_3 {
+public class Demo_202_List_003 {
 
 	public static void main(String[] args) {
 		ArrayList list = new ArrayList();

@@ -1,11 +1,11 @@
-package com.companyname.demo2.List;
+package com.learnjava.topic25.list;
 
 
 // AddAll Example 
 
 import java.util.ArrayList;
 
-public class Demo_List_15 {
+public class Demo_214_List_015 {
 
 	public static void main(String[] args) {
 		ArrayList list1 = new ArrayList();

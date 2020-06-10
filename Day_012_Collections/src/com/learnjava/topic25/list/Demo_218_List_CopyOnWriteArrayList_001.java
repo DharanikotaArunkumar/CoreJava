@@ -2,7 +2,7 @@
  * ConcurrentModificationException Example 
  */
 
-package com.companyname.demo2.list;
+package com.learnjava.topic25.list;
 
 import java.util.ArrayList;
 import java.util.Iterator;

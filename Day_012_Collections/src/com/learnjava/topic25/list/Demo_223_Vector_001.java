@@ -1,9 +1,9 @@
-package com.companyname.democollections;
+package com.learnjava.topic25.list;
 
 
 import java.util.Vector;
 
-public class Demo_Vector_1 {
+public class Demo_223_Vector_001 {
 
 	public static void main(String[] args) {
 

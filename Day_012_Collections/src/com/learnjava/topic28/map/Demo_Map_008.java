@@ -1,11 +1,11 @@
-package com.companyname.democollections;
+package com.learnjava.topic28.map;
 
 // isEmpty() and clear() methods of the map
 
 import java.util.HashMap;
 import java.util.Map;
 
-public class Demo_Map_8 {
+public class Demo_Map_008 {
 
 	public static void main(String[] args) {
 Map map =new HashMap();

@@ -32,6 +32,8 @@ public class Demo_WrapperClass_001 {
 		
 		String str = Integer.toString(primitiveInt);
 		
+		System.out.println(str);
+		
 		//Dataype -->wrapper class
 		
 		int k=10;

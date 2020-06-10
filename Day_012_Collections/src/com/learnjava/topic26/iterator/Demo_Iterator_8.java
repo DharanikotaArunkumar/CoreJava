@@ -1,4 +1,4 @@
-package com.companyname.democollections;
+package com.learnjava.topic26.iterator;
 
 // For each iterator 
 import java.util.ArrayList;

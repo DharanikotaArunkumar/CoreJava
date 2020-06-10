@@ -31,9 +31,9 @@ public class Demo_ClassAndObject_010_StaticMethod {
 	
 		
 		Employee.getCount();
-		/*Employee employee = new Employee();
+		Employee employee = new Employee();
 		employee.getCount();
-		*/
+		
 		
 		
 

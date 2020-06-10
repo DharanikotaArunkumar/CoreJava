@@ -1,4 +1,4 @@
-package com.companyname.democollections;
+package com.learnjava.topic27.set;
 
 // If you want the data elements to be in the ordered then we have TreeSet .
 import java.util.Set;

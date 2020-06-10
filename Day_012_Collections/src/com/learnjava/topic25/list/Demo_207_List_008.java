@@ -1,9 +1,9 @@
-package com.companyname.demo2.List;
+package com.learnjava.topic25.list;
 // get and add(index,value) examples
 
 import java.util.ArrayList;
 
-public class Demo_List_8 {
+public class Demo_207_List_008 {
 
 	public static void main(String[] args) {
 		ArrayList list = new ArrayList();

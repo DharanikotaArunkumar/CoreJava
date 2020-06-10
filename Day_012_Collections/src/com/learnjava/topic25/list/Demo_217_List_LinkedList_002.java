@@ -1,8 +1,8 @@
-package com.companyname.demo2.List;
+package com.learnjava.topic25.list;
 
 import java.util.LinkedList;
 
-public class Demo_216_List_LinkedList_002 {
+public class Demo_217_List_LinkedList_002 {
 
 	public static void main(String[] args) {
 		LinkedList<Object> list =new LinkedList<Object>();

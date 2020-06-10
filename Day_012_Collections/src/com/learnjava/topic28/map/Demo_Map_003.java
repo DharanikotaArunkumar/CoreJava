@@ -1,11 +1,11 @@
-package com.companyname.democollections;
+package com.learnjava.topic28.map;
 
 // insertion order is not preserved . 
 
 import java.util.HashMap;
 import java.util.Map;
 
-public class Demo_Map_3 {
+public class Demo_Map_003 {
 
 	public static void main(String[] args) {
 	Map map =new HashMap();

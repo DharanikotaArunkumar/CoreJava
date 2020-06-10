@@ -1,11 +1,11 @@
-package com.companyname.democollections;
+package com.learnjava.topic28.map;
 
 import java.util.HashMap;
 import java.util.Map;
 
 // get() is used to get the value of that particular key .
 // and the return type is Object 
-public class Demo_Map_6 {
+public class Demo_Map_006 {
 
 	public static void main(String[] args) {
 		Map map =new HashMap();

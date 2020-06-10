@@ -1,11 +1,11 @@
-package com.companyname.democollections;
+package com.learnjava.topic28.map;
 
 // tree map example 
 
 import java.util.Map;
 import java.util.TreeMap;
 
-public class Demo_Map_15 {
+public class Demo_Map_015 {
 
 	public static void main(String[] args) {
 		Map map =new TreeMap();

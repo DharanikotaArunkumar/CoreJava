@@ -1,7 +1,7 @@
-package companyname.demomultithreading;
+package com.learnjava.topic23.multithreading;
 
 // Problem without synchronized
-public class Demo_MultiThreading_14 {
+public class Demo_MultiThreading_014 {
 
 	public static void main(String[] args) {
 		

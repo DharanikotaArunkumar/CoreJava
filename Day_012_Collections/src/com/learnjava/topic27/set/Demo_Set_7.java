@@ -1,4 +1,4 @@
-package com.companyname.democollections;
+package com.learnjava.topic27.set;
 
 
 // How to remove the duplicates from the collections

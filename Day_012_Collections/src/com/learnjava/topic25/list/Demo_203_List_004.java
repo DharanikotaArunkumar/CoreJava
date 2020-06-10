@@ -1,13 +1,13 @@
-package com.companyname.demo2.List;
+package com.learnjava.topic25.list;
 
 // Duplicates are allowed here ,
 
 import java.util.ArrayList;
 
-public class Demo_List_4 {
+public class Demo_203_List_004 {
 
 	public static void main(String[] args) {
-		ArrayList list = new ArrayList();
+		ArrayList list = new ArrayList(110);
 		list.add("hello");
 		list.add(10);
 		list.add(12.23f);

@@ -1,8 +1,8 @@
-package companyname.demomultithreading;
+package com.learnjava.topic23.multithreading;
 
 //Synchronized block
 
-public class Demo_MultiThreading_15 {
+public class Demo_MultiThreading_015 {
 
 	public static void main(String[] args) {
 

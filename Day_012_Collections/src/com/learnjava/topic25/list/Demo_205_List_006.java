@@ -1,9 +1,9 @@
-package com.companyname.demo2.List;
+package com.learnjava.topic25.list;
 // size () method returns the int value .
 
 import java.util.ArrayList;
 
-public class Demo_List_6 {
+public class Demo_205_List_006 {
 
 	public static void main(String[] args) {
 		ArrayList list = new ArrayList();

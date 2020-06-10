@@ -1,11 +1,11 @@
-package com.companyname.democollections;
+package com.learnjava.topic28.map;
 
 import java.util.HashMap;
 import java.util.Map;
 
 // ContainsKey and containsValue 
 
-public class Demo_Map_9 {
+public class Demo_Map_009 {
 
 	public static void main(String[] args) {
 Map map =new HashMap();

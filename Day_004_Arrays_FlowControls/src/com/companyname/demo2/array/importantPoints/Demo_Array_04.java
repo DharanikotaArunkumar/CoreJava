@@ -13,6 +13,8 @@ public class Demo_Array_04 {
 		//double size = 4.9;
 		//int number[] = new int[size];
 		
+	
+		
 
 	}
 

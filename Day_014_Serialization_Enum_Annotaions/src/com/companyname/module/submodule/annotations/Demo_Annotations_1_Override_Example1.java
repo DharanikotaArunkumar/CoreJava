@@ -17,7 +17,7 @@ class Person{
 class IndianPerson extends Person{
 	
 	@Override
-	public void  diplayPersonNamme(){
+	public void  diplayPersonName(){
 		System.out.println("diplayPersonNamme  from indian ");	
 	}
 	

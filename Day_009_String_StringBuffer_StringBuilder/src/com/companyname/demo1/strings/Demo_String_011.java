@@ -10,6 +10,7 @@ public class Demo_String_011 {
 				String str1 ="World";
 				String str2 ="Hello"+"World";
 				String str22 ="HelloWorld";
+				str22 = "HelloWorld1";
 				
 				
 				// These will be created in the Heap memory 
