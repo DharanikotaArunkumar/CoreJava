@@ -20,10 +20,10 @@ public class Demo_002_Keywords {
 		
 // 1 ) Which of the following is correct statement		
 		
-		/*If(true){
+		if(true){
 		 System.out.println("I will be printed"); 
 	 	}
-		*/	 
+			 
 		/*if(true){
 		 System.out.println("I will be printed");
 		 }*/
