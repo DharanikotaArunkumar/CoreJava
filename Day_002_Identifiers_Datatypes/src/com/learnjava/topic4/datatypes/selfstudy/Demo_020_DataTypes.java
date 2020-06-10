@@ -1,6 +1,9 @@
-package com.learnjava.topic4.datatypes;
+/*
+ * Range check for short 
+ */
+package com.learnjava.topic4.datatypes.selfstudy;
 
-public class Demo_011_DataTypes_003 {
+public class Demo_020_DataTypes {
 
 	public static void main(String[] args) {
 		
@@ -10,7 +13,7 @@ public class Demo_011_DataTypes_003 {
 		 * range =-32,768 to +32,767
 		 */
 
-		short count = 1000;
+		short count = 1000;  // short count = (short) 1000;
 		System.out.println(count);
 
 		/*
@@ -31,15 +34,15 @@ public class Demo_011_DataTypes_003 {
 		 * Range Check Maximum
 		 */
 
-	/*	 short rangeMax = 32768;
-		 System.out.println(rangeMax);
-		*/  
+		/* short rangeMax = 32768;
+		 System.out.println(rangeMax);*/
+		  
 		
 		/*
 		 * Range Check Minimum
 		 */
 
-		/* short rangeMin = -32769;
+	/*	// short rangeMin = -32769;
 		 System.out.println(rangeMin);*/
 
 		/*short name= "Joe";

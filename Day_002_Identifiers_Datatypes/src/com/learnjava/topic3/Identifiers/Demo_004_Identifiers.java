@@ -2,7 +2,7 @@ package com.learnjava.topic3.Identifiers;
 	/*
 	 * An identifier is a sequence of one or more characters. (A-Z,a-z,0-9,$,_)
 	 */
-public class Demo_004_Identifiers_002 {
+public class Demo_004_Identifiers {
 
 	public static void main(String[] args) {
 		

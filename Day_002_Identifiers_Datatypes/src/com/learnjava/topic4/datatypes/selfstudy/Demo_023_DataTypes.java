@@ -1,6 +1,10 @@
-package com.learnjava.topic4.datatypes;
+/*
+ * Range check for float 
+ */
 
-public class Demo_014_DataTypes_006 {
+package com.learnjava.topic4.datatypes.selfstudy;
+
+public class Demo_023_DataTypes {
 
 	public static void main(String[] args) {
 		/* float

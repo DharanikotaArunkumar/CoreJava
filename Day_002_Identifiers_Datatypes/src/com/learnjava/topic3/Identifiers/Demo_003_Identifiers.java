@@ -4,7 +4,7 @@ package com.learnjava.topic3.Identifiers;
 	2) Variable Name 
 	3) Class Name 
 	*/
-public class Demo_003_Identifiers_001 {
+public class Demo_003_Identifiers {
 
 	public static void main(String[] args) {
 		int count =0;

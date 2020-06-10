@@ -2,7 +2,7 @@ package com.learnjava.topic3.Identifiers;
 /*The first character must be a valid first character (letter, $, _) in an identifier of 
 the Java programming language
 */
-public class Demo_005_Identifiers_003 {
+public class Demo_005_Identifiers {
 
 	public static void main(String[] args) {
 		

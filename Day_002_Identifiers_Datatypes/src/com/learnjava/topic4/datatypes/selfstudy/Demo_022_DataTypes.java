@@ -1,6 +1,9 @@
-package com.learnjava.topic4.datatypes;
+/*
+ * Range check for long 
+ */
+package com.learnjava.topic4.datatypes.selfstudy;
 
-public class Demo_013_DataTypes_005 {
+public class Demo_022_DataTypes {
 
 	public static void main(String[] args) {
 		/* long
@@ -11,10 +14,6 @@ public class Demo_013_DataTypes_005 {
 
 		long count = 100000000000L; // long should be followed by the 'l' or 'L'
 		System.out.println(count);
-
-		
-		
-		
 		
 		/*
 		 * Min Value check

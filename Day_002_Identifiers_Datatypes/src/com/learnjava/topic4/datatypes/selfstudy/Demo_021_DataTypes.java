@@ -1,6 +1,9 @@
-package com.learnjava.topic4.datatypes;
+/*
+ * Range check for short 
+ */
+package com.learnjava.topic4.datatypes.selfstudy;
 
-public class Demo_012_DataTypes_004 {
+public class Demo_021_DataTypes {
 
 	public static void main(String[] args) {
 		/* int
@@ -35,15 +38,17 @@ public class Demo_012_DataTypes_004 {
 		 System.out.println(rangeMax);*/
 		 //int value is out of range
 		 		
+	
+		
 		
 		/*
 		 * Range Check Minimum
 		 */
-
-		 /*int rangeMin = -2147483649;
+/*
+		 int rangeMin = -2147483649;
 		 System.out.println(rangeMin);
 		 //The literal 2147483649 of type int is out of range 
-		  */
+*/		  
 		
 		/*int name= "Joe";
 		System.out.println(name);

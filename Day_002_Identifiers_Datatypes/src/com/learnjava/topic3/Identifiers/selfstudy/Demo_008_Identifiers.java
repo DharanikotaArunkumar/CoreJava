@@ -1,4 +1,3 @@
-package com.learnjava.topic3.Identifiers;
 /*What are the Valid Identifiers and if not valid .Explain Why they are not valid  ?
 
 	 DollarDeams
@@ -21,7 +20,10 @@ package com.learnjava.topic3.Identifiers;
 	 ___
 
 */
-public class Demo_008_Identifiers_006 {
+
+package com.learnjava.topic3.Identifiers.selfstudy;
+
+public class Demo_008_Identifiers {
 
 	public static void main(String[] args) {
 		

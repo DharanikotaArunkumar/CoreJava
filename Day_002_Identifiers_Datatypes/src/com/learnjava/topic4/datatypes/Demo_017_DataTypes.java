@@ -1,6 +1,9 @@
+/*
+ * Character data type and there locations 
+ */
 package com.learnjava.topic4.datatypes;
 
-public class Demo_016_DataTypes_008 {
+public class Demo_017_DataTypes{
 
 	public static void main(String[] args) {
 

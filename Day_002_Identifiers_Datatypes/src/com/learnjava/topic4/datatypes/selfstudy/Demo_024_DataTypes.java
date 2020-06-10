@@ -1,6 +1,9 @@
-package com.learnjava.topic4.datatypes;
+/*
+ * Range check for double 
+ */
+package com.learnjava.topic4.datatypes.selfstudy;
 
-public class Demo_015_DataTypes_007 {
+public class Demo_024_DataTypes {
 
 	public static void main(String[] args) {
 		/* double

@@ -1,6 +1,9 @@
-package com.learnjava.topic4.datatypes;
+/*
+ * Range check for byte 
+ */
+package com.learnjava.topic4.datatypes.selfstudy;
 
-public class Demo_010_DataTypes_002 {
+public class Demo_019_DataTypes {
 
 	public static void main(String[] args) {
 
@@ -32,19 +35,19 @@ public class Demo_010_DataTypes_002 {
 		/*
 		 * Range Check Maximum
 		 */
+		//-128 -127 -126 -125 -124 ....0 ..........125 126 127 // 128 129 130
 		
-		
-	/*	 byte rangeMax = 128;
+		 byte rangeMax = (byte) 1000;
 		 System.out.println(rangeMax);
 
 		
-		 * Range Check Minimum
+		/* Range Check Minimum
 		 
 
 		 byte rangeMin = -129;
 		 System.out.println(rangeMin);
 
-		byte charTest= "hi";
+		byte charTest= "hi"; // we can not assign string to byte
 		System.out.println(charTest);*/
 		 
 	
