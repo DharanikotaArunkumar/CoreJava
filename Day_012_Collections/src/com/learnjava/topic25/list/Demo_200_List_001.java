@@ -10,7 +10,7 @@ public class Demo_200_List_001 {
 		
 		
 		
-		
+	//	Student vijay = new Student();
 			ArrayList list = new ArrayList();
 			list.add("hello");
 			list.add(10);

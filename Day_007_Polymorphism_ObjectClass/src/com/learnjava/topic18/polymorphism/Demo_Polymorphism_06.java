@@ -15,9 +15,10 @@ class superClass1 {
 
 class childClass1 extends superClass1{
 	
-	public   void displayInformation(){
+	public    void displayInformation(){
 		System.out.println("I am non static  Method from child class ");
 	}
+	
 }
 
 

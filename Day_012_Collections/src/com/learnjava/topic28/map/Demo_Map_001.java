@@ -16,6 +16,8 @@ public class Demo_Map_001 {
 	map.put(4, "D");
 	map.put(5, "E");
 	map.put(6, "F");
+	
+	
 	System.out.println(map);
 	}
 

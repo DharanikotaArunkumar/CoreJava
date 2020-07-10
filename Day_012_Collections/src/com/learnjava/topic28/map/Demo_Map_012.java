@@ -16,7 +16,7 @@ public class Demo_Map_012 {
 		map.put(5, "E");
 		map.put(6, "F");
 		map.put(null, "D");
-		System.out.println(map.replace(1, "a"));
+		System.out.println(map.replace(7, "a"));
 		
 		System.out.println(map);
 		

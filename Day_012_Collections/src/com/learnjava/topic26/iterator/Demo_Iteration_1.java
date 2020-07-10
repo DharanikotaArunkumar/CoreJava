@@ -17,7 +17,7 @@ public class Demo_Iteration_1 {
 		list.add(10);
 		list.add(12.23f);
 		list.add(null); 
-		System.out.println(list);
+		System.out.println(list.toString());
 		
 		Iterator it = list.iterator();
 		System.out.println(" Iterator started");

@@ -15,15 +15,20 @@ import java.util.concurrent.LinkedBlockingQueue;
 public class Demo_002_ExecutorFramework {
 
 	public static void main(String[] args) {
-		/*
-		 * ExecutorService fixedThreadPool = Executors.newFixedThreadPool(5);
-		 * fixedThreadPool.submit(new PrintNumbers()); fixedThreadPool.submit(new
-		 * PrintNumbers()); fixedThreadPool.submit(new PrintNumbers());
-		 * fixedThreadPool.submit(new PrintNumbers()); fixedThreadPool.submit(new
-		 * PrintNumbers()); fixedThreadPool.submit(new PrintNumbers());
-		 * 
-		 * fixedThreadPool.shutdown();
-		 */
+		
+		ExecutorService fixedThreadPool = Executors.newFixedThreadPool(5);
+		
+		fixedThreadPool.submit(new PrintNumbers());
+		fixedThreadPool.submit(new
+		PrintNumbers());
+		fixedThreadPool.submit(new PrintNumbers());
+		fixedThreadPool.submit(new PrintNumbers());
+		fixedThreadPool.submit(new
+		PrintNumbers());
+		fixedThreadPool.submit(new PrintNumbers());
+		
+		fixedThreadPool.shutdown();
+		 
 		 
 		 
 		 ExecutorService fixedEvenThreadPool = Executors.newFixedThreadPool(5); // Creating the Thread pool .

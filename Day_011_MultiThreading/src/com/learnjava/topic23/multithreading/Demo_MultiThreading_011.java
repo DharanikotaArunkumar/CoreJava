@@ -5,11 +5,15 @@ package com.learnjava.topic23.multithreading;
 public class Demo_MultiThreading_011 {
 
 	public static void main(String[] args) {
+		
+		System.out.println("Main Thread Started");
 		Thread.currentThread().setPriority(Thread.MAX_PRIORITY);
 		Thread t1 =new MyProjectThread8();
 		t1.setName("My Thread");
 		t1.setPriority(5);
 		t1.start();
+		
+		System.out.println("Main Thread Ended");
 		
 
 	}

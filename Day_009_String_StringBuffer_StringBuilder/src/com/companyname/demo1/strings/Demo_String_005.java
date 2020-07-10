@@ -8,8 +8,12 @@ public class Demo_String_005 {
 		String str= "Hello";		
 		String str1 =str;
 		
-		System.out.println(str.equals(str1));
-		System.out.println(str==str1);
+		String str2 = "Hello";
+		
+		System.out.println(str.equals(str2));
+		System.out.println(str==str2);
+		
+		
 	}
 
 }

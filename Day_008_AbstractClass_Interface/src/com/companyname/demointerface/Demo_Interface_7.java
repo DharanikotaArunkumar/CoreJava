@@ -2,12 +2,12 @@ package com.companyname.demointerface;
 
 
 // interface can not have constructors , but abstract class have constructor 
-interface Shape6{
+abstract class Shape6{
 	
 	Shape6(){
 		
 	}
-	void calArea();
+	void calArea(){};
 }
 
 public class Demo_Interface_7 {

@@ -5,8 +5,8 @@ public class Demo_Assignment_002 {
 
 	public static void main(String[] args) {
 
-		int yearInput = 2019;
-		int startDay = 1;
+		int yearInput = 2020;
+		int startDay = 2;
 		int febMonDays = (yearInput % 4 == 0 ? 29 : 28);
 		int[] totalDaysInMonth = new int[] { 31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31 };
 		totalDaysInMonth[1] = febMonDays;

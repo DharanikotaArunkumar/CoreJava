@@ -7,7 +7,7 @@ interface Shape2{
 	void diaplyArea();
 }
 
-public class Demo_Interface_5  implements Shape2{
+ public  class Demo_Interface_5  implements Shape2{
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub

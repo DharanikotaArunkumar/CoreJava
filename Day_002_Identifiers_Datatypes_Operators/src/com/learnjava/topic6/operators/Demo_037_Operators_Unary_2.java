@@ -19,6 +19,8 @@ public class Demo_037_Operators_Unary_2 {
 		int num1 =num++;
 		System.out.println("post increament value "+num1);
 		
+		System.out.println("Number value "+num);
+		
 		System.out.println("----------------------------");
 		
 		int a =1;

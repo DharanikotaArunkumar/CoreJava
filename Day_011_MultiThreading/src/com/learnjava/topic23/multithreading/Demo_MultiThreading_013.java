@@ -1,6 +1,6 @@
 package com.learnjava.topic23.multithreading;
 
-// Join() method gives an advantage of ordring the threads 
+// Join() method gives an advantage of ordering the threads 
 public class Demo_MultiThreading_013 {
 
 	public static void main(String[] args) throws InterruptedException {

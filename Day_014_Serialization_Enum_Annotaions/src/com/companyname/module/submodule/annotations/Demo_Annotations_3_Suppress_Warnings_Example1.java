@@ -9,6 +9,7 @@ public class Demo_Annotations_3_Suppress_Warnings_Example1 {
 	public static void main(String[] args) {
 		
 	
+	
 		@SuppressWarnings("rawtypes")
 		List cricketTeamNames = new ArrayList();
 		

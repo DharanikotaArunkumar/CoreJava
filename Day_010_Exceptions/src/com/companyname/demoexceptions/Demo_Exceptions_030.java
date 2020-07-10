@@ -28,7 +28,7 @@ public class Demo_Exceptions_030 {
 }
 
 class CreditCard10 {
-	public void saveTranscation()throws ClassNotFoundException{
+	public void saveTranscation() throws ClassNotFoundException{
 		System.out.println("Inside CreditCard1");
 	}	
 }

@@ -9,8 +9,8 @@ public class Demo_065_Ifelse {
 		/*int x=1;
 		if(x){
 			System.out.println("now its correct...!");
-		}*/
-				
+		}
+			*/	
 		
 		int bb= 10;
 		if(bb==12){

@@ -12,7 +12,18 @@ public class Demo_Exceptions_005 {
 		//object to be created 
 		
 		String parameter ="Demo_Exceptions_5";
-	//	Object newInstance = Class.forName(parameter).newInstance();
+		try {
+			Object newInstance = Class.forName(parameter).newInstance();
+		} catch (InstantiationException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (IllegalAccessException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		} catch (ClassNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 		
 
  }

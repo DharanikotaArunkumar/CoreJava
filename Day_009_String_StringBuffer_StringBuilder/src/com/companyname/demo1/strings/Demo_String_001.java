@@ -2,9 +2,17 @@ package com.companyname.demo1.strings;
 
 // Create a string with literal .
 
+
+
+
+
 public class Demo_String_001 {
 
 	public static void main(String[] args) {
+		
+		
+		
+		
 		String str1 ="Hello";
 		String str2 ="Hi";
 		String str3 ="Bye";

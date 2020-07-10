@@ -98,7 +98,7 @@ public class Demo_AbstractClass_Intro_2 {
 
 	public static void main(String[] args) {
 	
-		//Bird2 pigeon = new Pigeon("pigeon");
+		// Bird2 pigeon = new Pigeon("pigeon");
 		
 		Pigeon pigeon = new Pigeon("pigeon");
 		pigeon.makeSound(); // Happy 

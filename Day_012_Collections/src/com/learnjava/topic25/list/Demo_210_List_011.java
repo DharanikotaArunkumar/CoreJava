@@ -19,11 +19,11 @@ public class Demo_210_List_011 {
 		list.add(12.23f);
 		list.add(null);
 		list.add("hello");
-		list.add(3);
+		list.add("30");
 		list.add(12.23f);
 		list.add(null); 
 		System.out.println(list);
-		list.remove(3);  
+		list.remove("30");  
 		System.out.println(list);
 		list.remove(12.23f);  
 		System.out.println(list);

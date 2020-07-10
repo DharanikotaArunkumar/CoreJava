@@ -5,7 +5,7 @@ public class Demo_071_Switch {
 	public static void main(String[] args) {
 		// default is executed when non the case is matched . 
 		
-		char ch ='k';
+		char ch ='a';
 		
 		switch(ch){
 		case 'a' :

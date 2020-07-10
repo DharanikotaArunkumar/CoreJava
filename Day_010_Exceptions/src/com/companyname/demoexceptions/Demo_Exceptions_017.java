@@ -7,7 +7,7 @@ public class Demo_Exceptions_017 {
 		try {
 			String parameter ="Demo_Exceptions_5";
 			Class.forName(parameter).newInstance();
-			//Class.forName("com.companyname.demoexceptions.Demo_Exceptions_005").newInstance();
+			Class.forName("com.companyname.demoexceptions.Demo_Exceptions_005").newInstance();
 			System.out.println(" i am called ");
 			
 		} catch (InstantiationException e) {// will be raised while creating the object to abstract class

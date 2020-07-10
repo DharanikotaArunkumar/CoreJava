@@ -9,7 +9,7 @@ package com.companyname.demointerface;
 
 
 interface Transaction{	
-boolean transaction();
+	boolean transaction();
 //	public abstract boolean transaction();
 }
 

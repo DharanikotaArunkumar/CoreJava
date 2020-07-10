@@ -40,7 +40,7 @@ public class Demo_035_Operators_Logical {
 		b = 0;
 		c = 1;
 		if (!(a == 0) || b == 1 || c == 1) {
-			System.out.println("c==1 will be tested ");
+			System.out.println("a==1 will be tested ");
 		}
 
 	}

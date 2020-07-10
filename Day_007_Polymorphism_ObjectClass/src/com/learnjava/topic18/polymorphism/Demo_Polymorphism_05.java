@@ -32,17 +32,17 @@ public class Demo_Polymorphism_05 {
 	public static void main(String[] args) throws ClassNotFoundException {
 
 
-		SuperClass superClass = new SuperClass();
+		/*SuperClass superClass = new SuperClass();
 		superClass.displayInformation();
 		superClass.displayInformationNonStatic();
 
 		ChildClass childClass = new ChildClass();
 		
 		 childClass.displayInformation();
-		 childClass.displayInformationNonStatic();
+		 childClass.displayInformationNonStatic();*/
 		 
 
-		superClass = childClass;
+		ChildClass superClass = new  ChildClass();;
 
 		superClass.displayInformationNonStatic(); // to whom your refering is
 		

@@ -14,7 +14,11 @@ public class Demo_036_Operators_Unary_1 {
 		//3) decrement (--)
 		//4) unary plus (+) indicates the positive 
 		
-		int stockPriceChange =250;
+		int stockPriceChange =+250;
+		System.out.println("stock price  change today "+stockPriceChange);
+		
+		
+		stockPriceChange =250;
 		System.out.println("stock price  change today "+(-stockPriceChange));
 		
 		int number =120;

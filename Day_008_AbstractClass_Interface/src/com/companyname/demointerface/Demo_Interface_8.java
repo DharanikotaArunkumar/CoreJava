@@ -10,9 +10,11 @@ interface Shape8{
 public class Demo_Interface_8 {
 
 	public static void main(String[] args) {
-		Shape8.no=12;
-		System.err.println(Shape8.no);
+	//	Shape8.no=12;
+		System.out.println(Shape8.no);
 		// TODO Auto-generated method stub
+		
+		
 
 	}
 

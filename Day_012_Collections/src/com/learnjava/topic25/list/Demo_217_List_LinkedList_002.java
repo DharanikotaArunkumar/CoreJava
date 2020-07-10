@@ -22,6 +22,8 @@ public class Demo_217_List_LinkedList_002 {
 		
 		list.remove(2);
 		System.out.println(list);
+		
+	
 
 	}
 

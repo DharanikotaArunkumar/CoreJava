@@ -17,11 +17,11 @@ public class Demo_Annotations_2_Deprecated_Example1 {
 		Date date = new Date();
 		// When we use IDE it shows like below ..strict line  deprecated method 
 		
-		 /*@Deprecated
+	/*	 @Deprecated
 		    public int getDate() {
 		        return normalize().getDayOfMonth();
-		    }
-		 */
+		    }*/
+		 
 		
 		int todayDate = date.getDate();
 	

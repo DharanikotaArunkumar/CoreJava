@@ -13,9 +13,9 @@ public class Demo_Exceptions_034 {
 			manager.verifyUserInfo("123456789", "");
 			manager.withDrawAmount(12345);
 
-		} catch (AccountNumberNotFoundException1 ex) {
-			System.out.println("insert proper card");
-		} catch (AccountInfoNotFOundException1 ex) {
+		} catch (AccountNumberNotFoundException ex) {
+			System.out.println("insert proper card"+ex.getMessage());
+		} catch (AccountInfoNotFOundException ex) {
 			System.out.println("enter proper pin number ");
 		}
 	}
@@ -24,14 +24,14 @@ public class Demo_Exceptions_034 {
 class BankManager1 {
 	public void verifyCardDetilaes(String cardno) {
 		if (null == cardno || cardno.length() == 0) {
-			throw new AccountNumberNotFoundException1("e");
+			throw new AccountNumberNotFoundException("Card number empty");
 		}
 
 	}
 
 	public void verifyUserInfo(String cardno, String pinno) {
 		if (null == cardno || pinno.length() == 0) {
-			throw new AccountInfoNotFOundException1("e");
+			throw new AccountInfoNotFOundException("e");
 		}
 
 	}
@@ -41,18 +41,18 @@ class BankManager1 {
 	}
 }
 
-class AccountNumberNotFoundException1 extends RuntimeException {
+class AccountNumberNotFoundException extends RuntimeException {
 
 	
-	public AccountNumberNotFoundException1(String msg) {
+	public AccountNumberNotFoundException(String msg) {
 		super(msg);
 	}
 
 }
 
-class AccountInfoNotFOundException1 extends RuntimeException {
+class AccountInfoNotFOundException extends RuntimeException {
 
-	public AccountInfoNotFOundException1(String msg) {
+	public AccountInfoNotFOundException(String msg) {
 		super(msg);
 	}
 }

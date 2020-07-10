@@ -19,7 +19,7 @@ public class Demo_033_Operators_Assignment {
 		//3) assigning expression to variable .
 		
 		x= 100;
-		y=100;
+		y =100;
 	
 		
 	}

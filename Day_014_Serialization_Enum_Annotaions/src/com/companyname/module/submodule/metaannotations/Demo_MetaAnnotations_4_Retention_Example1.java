@@ -6,14 +6,14 @@ package com.companyname.module.submodule.metaannotations;
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Target;
 
-@Target({ElementType.METHOD,ElementType.FIELD})
+@Target({ElementType.METHOD,ElementType.FIELD,ElementType.TYPE})
 @interface NonVetoPower5{
 
 	//boolean CanWar() default true;
 }
 
 
-
+@NonVetoPower5
 class country5 {
 	
 	@NonVetoPower5

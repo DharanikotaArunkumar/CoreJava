@@ -14,7 +14,7 @@ public class Demo_068_Ifelse {
 		Date date= calendar.getTime();
 		int hour =date.getHours();
 		
-		//hour =25;
+		//hour =17;
 		System.out.println("Hours :- "+hour);
 		
 		

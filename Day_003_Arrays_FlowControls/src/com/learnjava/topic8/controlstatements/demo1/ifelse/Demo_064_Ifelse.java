@@ -6,9 +6,10 @@ public class Demo_064_Ifelse {
 		
 		int noOfPages =210;
 		
-		if (noOfPages<300){ 
+		if (noOfPages<300) {
 			System.out.println("its small book");
 		}
+		System.out.println("----- ");
 		System.out.println("Printed ");
 		
 	}

@@ -22,6 +22,8 @@ public class Demo_206_List_007 {
 		System.out.println(list.size());
 		System.out.println(list.isEmpty());
 		
+		
+		
 	}
 
 }

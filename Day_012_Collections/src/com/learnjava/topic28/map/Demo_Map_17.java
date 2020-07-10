@@ -1,0 +1,23 @@
+package com.learnjava.topic28.map;
+
+// all the keys should be in comparing form
+import java.util.Map;
+import java.util.TreeMap;
+import java.util.concurrent.ConcurrentHashMap;
+
+public class Demo_Map_17 {
+
+	public static void main(String[] args) {
+		Map map =new ConcurrentHashMap<>();
+		map.put(1, "A");
+		map.put(34, "B");
+		map.put(3, "C");
+		map.put(35, "D");
+		map.put(5, "E");
+		map.put(6, "F");
+		map.put(null, "D");
+		System.out.println(map);}
+	
+	
+
+}

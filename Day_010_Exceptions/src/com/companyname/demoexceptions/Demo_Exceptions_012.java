@@ -16,11 +16,11 @@ public class Demo_Exceptions_012 {
 				System.out.println("Values Of array " + array[5]); // ArrayIndexOutOfBoundsException 
 			
 		} 
-		/*catch (ArrayIndexOutOfBoundsException exp) { 
+	/*	catch (ArrayIndexOutOfBoundsException exp) { 
 			System.out.println("ArrayIndexOutOfBoundsException been raised :");
 			
 			}*/
-		/*catch (IndexOutOfBoundsException exp) { 
+	/*	catch (IndexOutOfBoundsException exp) { 
 			System.out.println("IndexOutOfBoundsException been raised :");
 			
 			}*/
@@ -29,15 +29,15 @@ public class Demo_Exceptions_012 {
 			System.out.println("RuntimeException been raised :");
 		
 			}*/
-		/*catch (Exception exp) { 
+	/*	catch (Exception exp) { 
 			System.out.println("Exception been raised :");
 			
 			}*/
 		
-		catch (Throwable exp) { 
+	/*	catch (Throwable exp) { 
 			System.out.println("Throwable been raised :");
 			
-			}
+			}*/
 		
 		
 		//Shape s =new circle();

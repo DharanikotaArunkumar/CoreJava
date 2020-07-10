@@ -9,9 +9,9 @@ class Demo {
 		int temp = 0;
 		try {
 			temp = 10;
-			
+			throw new NullPointerException();
 			//return temp;
-		} catch (NullPointerException exp) {
+		} catch (IndexOutOfBoundsException exp) {
 			System.out.println("null pointer");
 			temp = 20;
 			return temp;
@@ -19,10 +19,10 @@ class Demo {
 			temp = 30;
 			return temp;
 		} finally {
-			/*temp = 40;
-			return temp;*/
+			temp = 40;
+			return temp;
 		}
-return 10;
+//return temp;
 	}
 
 }

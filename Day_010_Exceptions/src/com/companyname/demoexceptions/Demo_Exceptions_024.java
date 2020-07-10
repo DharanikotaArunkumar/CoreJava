@@ -4,20 +4,19 @@ package com.companyname.demoexceptions;
 
 public class Demo_Exceptions_024 {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws ClassNotFoundException {
 		CreditCard3 card = new CreditCard3();
-		try {
+		
 			card.saveTranscation();
-		} catch (ClassNotFoundException e) {
-			System.out.println("Exception Catched");
-			e.printStackTrace();
-		}
+			
+			String
+		
 	}
 
 }
 class CreditCard3 {
 
-	public void saveTranscation() throws ClassNotFoundException  {
+	public void saveTranscation() throws ClassNotFoundException {
 		excuteTranscation();
 	}
 	
@@ -26,7 +25,8 @@ class CreditCard3 {
 	}
 	
 	public void commitTranscation() throws ClassNotFoundException  {
-		//String st = null;
+		String st = null;
+		st.toLowerCase();
 		Class.forName("com.companyname.demoexceptions.xyz");
 	}
 }

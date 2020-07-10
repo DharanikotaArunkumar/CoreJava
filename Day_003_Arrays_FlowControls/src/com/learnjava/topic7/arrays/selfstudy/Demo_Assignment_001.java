@@ -1,7 +1,5 @@
 package com.learnjava.topic7.arrays.selfstudy;
 
-import java.util.Arrays;
-
 public class Demo_Assignment_001 {
 
 	public static void main(String[] args) {

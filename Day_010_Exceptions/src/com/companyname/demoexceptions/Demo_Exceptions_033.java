@@ -8,8 +8,8 @@ public class Demo_Exceptions_033 {
 	public static void main(String[] args) {
 		BankManager manager = new BankManager();
 		try{	manager.verifyCardDetilaes("asdas");
-		manager.verifyUserInfo("123456789","");
-		manager.verifyAcountBalance(12345);
+		manager.verifyUserInfo("123456789","1234");
+		manager.verifyAcountBalance(0);
 		manager.verifyLimitpPerDayForUser(12345);
 		manager.withDrawAmount(12345);
 			
@@ -45,7 +45,7 @@ class  BankManager {
 	}
 	
 	public void verifyAcountBalance(double amount){
-		if(amount<0){
+		if(amount<=0){
 			throw new ArithmeticException("e");
 		}
 	}

@@ -4,8 +4,11 @@ public class Demo_070_Switch {
 
 	public static void main(String[] args) {
 		// Break is used to come out of the flow control 
-		String choice = "Orange";
+		 long startTIme = System.currentTimeMillis();
+		
+		String choice = "Green";
 
+		
 		switch (choice) {
 
 		case "Red":
@@ -24,6 +27,11 @@ public class Demo_070_Switch {
 			System.out.println("You have choosen Blue");
 
 		}
+		
+		 long endTime = System.currentTimeMillis();
+		 
+		long timeDiff = endTime-startTIme;
+		System.err.println(timeDiff);
 
 	}
 }

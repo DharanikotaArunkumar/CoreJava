@@ -10,7 +10,7 @@ public class Demo_Exceptions_011 {
 		try {
 		
 					
-				System.out.println("Values Of array " + array[5]);
+				System.out.println("Values Of array " + array[4]);
 				str.toLowerCase();
 					
 		} 

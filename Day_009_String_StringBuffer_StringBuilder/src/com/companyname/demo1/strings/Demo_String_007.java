@@ -11,6 +11,8 @@ class Person{
 	Person(String str){
 		name =str;
 	}
+	
+	
 }
 
 public class Demo_String_007 {

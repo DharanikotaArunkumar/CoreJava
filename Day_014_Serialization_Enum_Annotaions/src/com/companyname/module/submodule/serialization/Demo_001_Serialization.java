@@ -14,12 +14,12 @@ class Student implements Serializable {
 	
 	
 	
+
 	
 	/**
 	 * 
 	 */
-	private static final long serialVersionUID = 707420119120126587L;
-	
+	private static final long serialVersionUID = 9166037858485865353L;
 	private String stName;
 	private String stRollNumber;
 	private String stTotalMarks;

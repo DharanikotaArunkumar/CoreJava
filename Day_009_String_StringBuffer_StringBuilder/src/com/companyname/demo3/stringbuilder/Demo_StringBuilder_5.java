@@ -2,11 +2,11 @@ package com.companyname.demo3.stringbuilder;
 class Customer{
 	String cusName;
 	String cusid;
-	
-	@Override
+/*	@Override
 	public String toString() {
 		return "Customer [cusName=" + cusName + ", cusid=" + cusid + "]";
 	}
+	*/
 	
 	
 public String  toString(){

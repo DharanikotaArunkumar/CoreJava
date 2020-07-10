@@ -6,8 +6,8 @@ package com.companyname.demoexceptions;
 public class Demo_Exceptions_018 {
 	
 	public static void main(String[] args) {
-		//String str = null;
-		String str ="ABC";
+		String str = null;
+	//	String str ="ABC";
 		try {		
 			System.out.println("Inside try block");
 				str.toLowerCase();

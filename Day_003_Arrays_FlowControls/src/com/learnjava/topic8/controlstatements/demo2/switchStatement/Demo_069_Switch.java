@@ -6,8 +6,10 @@ public class Demo_069_Switch {
 		
 		// When we have more selection options we need to go for switch
 		
-		int choice  = 6;
-			
+		int choice  = 4;
+		long startTIme = System.currentTimeMillis();
+		
+		
 		switch(choice){		
 		case 1: 
 			System.out.println("You have choosen Case1");
@@ -24,7 +26,6 @@ public class Demo_069_Switch {
 		}
 		
 		
-		
 		/*if(choice==1){
 			System.out.println("You have choosen Case1");
 		}else if(choice==2){
@@ -37,7 +38,12 @@ public class Demo_069_Switch {
 			System.out.println("You have choosen Case4");
 		}else{
 			System.out.println("no choice");
-		}*/
+		}
+		*/
+		 long endTime = System.currentTimeMillis();
+		 
+			long timeDiff = endTime-startTIme;
+			System.err.println(timeDiff);
 		
 	}
 	

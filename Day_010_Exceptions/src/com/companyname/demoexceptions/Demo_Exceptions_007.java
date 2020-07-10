@@ -10,7 +10,7 @@ public class Demo_Exceptions_007 {
 		int[] array = new int[5];
 
 		try {
-			for (int i = 0; i < 5; i++) {
+			for (int i = 0; i < 6; i++) {
 				System.out.println("Values Of array " + array[i]);// Exception raise statement
 			}
 		} catch (ArrayIndexOutOfBoundsException exp) { //exception handle 

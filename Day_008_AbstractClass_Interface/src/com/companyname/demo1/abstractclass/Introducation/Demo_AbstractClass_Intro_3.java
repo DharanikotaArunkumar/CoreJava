@@ -5,7 +5,7 @@ package com.companyname.demo1.abstractclass.Introducation;
 
 import java.sql.Blob;
 
- abstract class Bird3 {
+  abstract class Bird3 {
 
 	public String birdName;
 	public Blob birdImage;
@@ -105,8 +105,8 @@ public class Demo_AbstractClass_Intro_3 {
 
 	public static void main(String[] args) {
 	
-		/*Bird3 bird = new Bird3();
-		bird.makeSound();*/
+		Bird3 bird = new Bird3();
+		bird.makeSound();
 		
 		
 		Bird3  Pigeon3 = new Pigeon3("Pigeon3");
