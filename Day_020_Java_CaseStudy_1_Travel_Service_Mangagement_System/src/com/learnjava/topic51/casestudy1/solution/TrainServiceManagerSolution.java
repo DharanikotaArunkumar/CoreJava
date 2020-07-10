@@ -19,7 +19,7 @@ public class TrainServiceManagerSolution implements TrainServiceManager {
 	FileReader fileReader;
 	BufferedReader reader;
 	final int TR1MIN = 1; /* Route TR1 minimum station number */
-	final int TR1MAX = 10; /* Route TR2 maximum station number */
+	final int TR1MAX = 10; /* Route TR1 maximum station number */
 	final int TR2MIN = 11; /* Route TR2 minimum station number */
 	final int TR2MAX = 20; /* Route TR2 maximum station number */
 
@@ -74,7 +74,7 @@ public class TrainServiceManagerSolution implements TrainServiceManager {
 					flag =true;
 					
 				}
-				if(tempSource == source && tempDestination == destination && flag) {
+				if(tempSource == source && tempDestination == destination && !flag) {
 				trainDetailsVO = new TrainDetailsVO();
 				trainDetailsVO.setTrainNumber(tempArray[0]); /*train number*/
 				trainDetailsVO.setRoute(tempArray[1]);       /*train route*/

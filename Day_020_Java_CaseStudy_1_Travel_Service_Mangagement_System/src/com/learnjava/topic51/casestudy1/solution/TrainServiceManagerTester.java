@@ -10,13 +10,13 @@ public class TrainServiceManagerTester {
 
 		TrainServiceManagerSolution trainservice = new TrainServiceManagerSolution();
 		// Please create this file as mentioned in case study document in your location and change file path pointing to that location  
-		String filePath = "E:\\Java Training\\13_COMPLETE JAVA\\CompleteJavaCourse\\WEEK 4. Case Study - Self\\TrainRoutesandFares.dat"; 
+		String filePath = "E:\\Java Training\\13_COMPLETE JAVA\\CompleteJavaCourse\\Day 20. Real Time Core Java Project -1\\TrainRoutesandFares.dat"; 
 		
 		
 		/*Requirement 1:- Given the source station number, destination station number and date of travel as input, the application 
 		should return all the train details which is running strictly from the source to the destination stations and not the trains passing through the stations.*/
 		
-		List<TrainDetailsVO> trainList = trainservice.getTrainDetails(filePath, 11,17, "22-08-2020");
+		List<TrainDetailsVO> trainList = trainservice.getTrainDetails(filePath, 11,18, "21-08-2020");
 		if(trainList.isEmpty()){
 			System.out.println("No Train Found ...!!!");
 		}
