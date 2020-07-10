@@ -1,6 +1,5 @@
-package com.learnjava.topic35.defaultmethods.solutionviadefaultmethod.api.implementation;
+package com.learnjava.topic36.staticmethod;
 
-import com.learnjava.topic35.defaultmethods.solutionviadefaultmethod.api.DeviceAPI;
 
 public class SmartWatch implements DeviceAPI {
 
@@ -20,6 +19,12 @@ public class SmartWatch implements DeviceAPI {
 	public String getBrand() {
 		
 		return "Apple";
+	}
+	
+	public static void main(String[] args) {
+		
+		
+		System.out.println(DeviceAPI.termsAndConditionsText());
 	}
 
 }

@@ -8,6 +8,6 @@ public interface DeviceAPI {
 
 	public String getBrand();
 	
-	// public boolean isBlueToothEnabled();
+	//public boolean isBlueToothEnabled();
 
 }

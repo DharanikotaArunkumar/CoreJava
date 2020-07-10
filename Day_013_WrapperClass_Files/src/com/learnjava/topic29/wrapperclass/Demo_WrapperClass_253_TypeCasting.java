@@ -1,13 +1,13 @@
 package com.learnjava.topic29.wrapperclass;
-public class Demo_WrapperClass_003 {
+public class Demo_WrapperClass_253_TypeCasting {
 
 	public static void main(String[] args) {
 		int i =12;
 		double d=i;
 		
 		
-		Integer ii =new Integer(13);
-		//Double dd=ii;
+		Integer intValue =new Integer(13);
+		Double dd=intValue.doubleValue();
 		
 		
 		double ddd=10;
@@ -16,6 +16,10 @@ public class Demo_WrapperClass_003 {
 		float f ;
 		Float FF;
 		
+		
+		
+		
+			
 	}
 
 }

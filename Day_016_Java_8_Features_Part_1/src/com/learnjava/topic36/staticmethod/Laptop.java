@@ -1,6 +1,5 @@
-package com.learnjava.topic35.defaultmethods.solutionviadefaultmethod.api.implementation;
+package com.learnjava.topic36.staticmethod;
 
-import com.learnjava.topic35.defaultmethods.solutionviadefaultmethod.api.DeviceAPI;
 
 public class Laptop implements DeviceAPI {
 
@@ -26,6 +25,12 @@ public class Laptop implements DeviceAPI {
 	public boolean isBlueToothEnabled() {
 
 		return true;
+	}
+	
+	public static void main(String[] args) {
+		
+		
+		System.out.println(DeviceAPI.termsAndConditionsText());
 	}
 
 }

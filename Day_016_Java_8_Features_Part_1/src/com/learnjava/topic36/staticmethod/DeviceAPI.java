@@ -1,4 +1,4 @@
-package com.learnjava.topic35.defaultmethods.solutionviadefaultmethod.api;
+package com.learnjava.topic36.staticmethod;
 
 public interface DeviceAPI {
 	
@@ -10,6 +10,10 @@ public interface DeviceAPI {
 	
 	default boolean isBlueToothEnabled(){
 		return true;
+	}
+	
+	static String termsAndConditionsText(){
+		return " ALL rights are reserved ";
 	}
 
 }

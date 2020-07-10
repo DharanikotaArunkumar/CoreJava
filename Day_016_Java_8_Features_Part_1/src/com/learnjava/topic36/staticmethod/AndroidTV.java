@@ -1,6 +1,5 @@
-package com.learnjava.topic35.defaultmethods.solutionviadefaultmethod.api.implementation;
+package com.learnjava.topic36.staticmethod;
 
-import com.learnjava.topic35.defaultmethods.solutionviadefaultmethod.api.DeviceAPI;
 
 public class AndroidTV implements DeviceAPI {
 
@@ -22,5 +21,10 @@ public class AndroidTV implements DeviceAPI {
 		return "Samsung";
 	}
 	
+	public static void main(String[] args) {
+		
+		
+		System.out.println(DeviceAPI.termsAndConditionsText());
+	}
 	
 }

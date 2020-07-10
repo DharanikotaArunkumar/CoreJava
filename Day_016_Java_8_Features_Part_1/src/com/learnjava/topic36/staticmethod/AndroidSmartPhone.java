@@ -1,6 +1,5 @@
-package com.learnjava.topic35.defaultmethods.solutionviadefaultmethod.api.implementation;
+package com.learnjava.topic36.staticmethod;
 
-import com.learnjava.topic35.defaultmethods.solutionviadefaultmethod.api.DeviceAPI;
 
 public class AndroidSmartPhone implements DeviceAPI {
 	
@@ -22,8 +21,15 @@ public class AndroidSmartPhone implements DeviceAPI {
 	}
 
 	@Override
-	public boolean isBlueToothEnabled(){
+	public boolean isBlueToothEnabled() {
+
 		return false;
 	}
 	
+	
+	public static void main(String[] args) {
+		
+		
+		System.out.println(DeviceAPI.termsAndConditionsText());
+	}
 }

@@ -1,5 +1,5 @@
 package com.learnjava.topic29.wrapperclass;
-public class Demo_WrapperClass_002 {
+public class Demo_WrapperClass_252_AutoBoxing {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
